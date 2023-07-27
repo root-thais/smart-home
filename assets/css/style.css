@@ -1,0 +1,76 @@
+body{
+  background-color: #282524f1;  
+}
+
+h1, h2, h3, h4, h5, p {
+    color: antiquewhite;
+}
+
+.p-1 {
+    padding: 0.6rem;
+}
+
+.m-none{
+    margin: 0;
+}
+
+.mt-5 {
+    margin-top: 3.5rem;
+}
+
+.btn-yellow{
+    background-color: #FFB267;
+    padding: 1.5rem;
+    border-radius: 20px;
+
+}
+
+.product-item {
+    background-color: rgba(68, 58, 58, 0.692);
+    padding: 1.3rem 1rem;
+    border: solid 1px rgb(223, 163, 36);
+    border-radius: 15px;
+    text-align: center;
+    text-align: -webkit-center;
+}
+
+.product-item h3 {
+    margin: 0;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.product-item .image{
+    max-width: 150px;
+    max-height: 115px;
+    padding: 2rem;
+
+}
+
+.add-item-border{
+    border-color: rgb(160, 129, 129);
+    border-style: dashed;
+    
+
+}
+
+.menu-app {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    padding: 1.3rem;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.image-nav{
+    max-width: 25px;
+    max-height: 25px;
+    margin-right: 5rem;
+    margin-left: 3rem;
+    
+}
+
+
+
+
